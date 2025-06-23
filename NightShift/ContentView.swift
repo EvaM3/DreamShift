@@ -2,7 +2,7 @@
 //  ContentView.swift
 //  NightShift
 //
-//  Created by Eva Sira Madarasz on 13/05/2025.
+//  Created by Eva  Madarasz 
 //
 
 import SwiftUI

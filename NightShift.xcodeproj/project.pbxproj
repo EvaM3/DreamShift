@@ -7,18 +7,56 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		A00A28412DF30CCC00D5B7E3 /* night-forest-soundscape-158701.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A00A28402DF30CCC00D5B7E3 /* night-forest-soundscape-158701.mp3 */; };
+		A00A28432DF30CDE00D5B7E3 /* rain-and-thunder-sfx-12820.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A00A28422DF30CDE00D5B7E3 /* rain-and-thunder-sfx-12820.mp3 */; };
+		A00A28452DF30CED00D5B7E3 /* soft-piano-72454.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A00A28442DF30CED00D5B7E3 /* soft-piano-72454.mp3 */; };
+		A00A28472DF30CFC00D5B7E3 /* tibetan-bowl-26240.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A00A28462DF30CFC00D5B7E3 /* tibetan-bowl-26240.mp3 */; };
+		A00A28492DF317B100D5B7E3 /* wish.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = A00A28482DF317B100D5B7E3 /* wish.mp3 */; };
+		A00A284B2DF3201E00D5B7E3 /* NotificationManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A284A2DF3201E00D5B7E3 /* NotificationManager.swift */; };
+		A00A284D2DF3209100D5B7E3 /* ReminderSettingsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A284C2DF3209100D5B7E3 /* ReminderSettingsView.swift */; };
+		A00A9B142DE3DBEB0051AD23 /* InfoSheetView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A9B132DE3DBEB0051AD23 /* InfoSheetView.swift */; };
+		A00A9B162DE3DDCF0051AD23 /* StarfieldBackground.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A9B152DE3DDCF0051AD23 /* StarfieldBackground.swift */; };
+		A00A9B182DE3DE220051AD23 /* DreamTheatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A9B172DE3DE220051AD23 /* DreamTheatherView.swift */; };
+		A01743CF2DE27788009322DD /* DreamJournalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01743CE2DE27788009322DD /* DreamJournalView.swift */; };
+		A01743D12DE27B54009322DD /* WishModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01743D02DE27B54009322DD /* WishModel.swift */; };
 		A09706842DD3D26E00A8D5AC /* NightShiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706832DD3D26E00A8D5AC /* NightShiftApp.swift */; };
 		A09706862DD3D26E00A8D5AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706852DD3D26E00A8D5AC /* ContentView.swift */; };
 		A09706882DD3D27000A8D5AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A09706872DD3D27000A8D5AC /* Assets.xcassets */; };
 		A097068B2DD3D27000A8D5AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A097068A2DD3D27000A8D5AC /* Preview Assets.xcassets */; };
+		A09706922DD3F5F500A8D5AC /* OnboardingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706912DD3F5F500A8D5AC /* OnboardingScreen.swift */; };
+		A09706942DD3F63500A8D5AC /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706932DD3F63500A8D5AC /* OnboardingViewModel.swift */; };
+		A09706972DD3F90200A8D5AC /* NightShiftThemeColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706962DD3F90200A8D5AC /* NightShiftThemeColors.swift */; };
+		A09706992DD3F99500A8D5AC /* DreamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706982DD3F99500A8D5AC /* DreamView.swift */; };
+		A0C36ACD2DD94ACA00CC7415 /* SprinklingStarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C36ACC2DD94ACA00CC7415 /* SprinklingStarsView.swift */; };
+		A0C36ACF2DD94B2F00CC7415 /* GlassmorphicOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C36ACE2DD94B2F00CC7415 /* GlassmorphicOverlay.swift */; };
+		A0C36AD32DD9536700CC7415 /* ShootingStarView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C36AD22DD9536700CC7415 /* ShootingStarView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		A00A28402DF30CCC00D5B7E3 /* night-forest-soundscape-158701.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "night-forest-soundscape-158701.mp3"; sourceTree = "<group>"; };
+		A00A28422DF30CDE00D5B7E3 /* rain-and-thunder-sfx-12820.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "rain-and-thunder-sfx-12820.mp3"; sourceTree = "<group>"; };
+		A00A28442DF30CED00D5B7E3 /* soft-piano-72454.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "soft-piano-72454.mp3"; sourceTree = "<group>"; };
+		A00A28462DF30CFC00D5B7E3 /* tibetan-bowl-26240.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = "tibetan-bowl-26240.mp3"; sourceTree = "<group>"; };
+		A00A28482DF317B100D5B7E3 /* wish.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = wish.mp3; sourceTree = "<group>"; };
+		A00A284A2DF3201E00D5B7E3 /* NotificationManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NotificationManager.swift; sourceTree = "<group>"; };
+		A00A284C2DF3209100D5B7E3 /* ReminderSettingsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ReminderSettingsView.swift; sourceTree = "<group>"; };
+		A00A9B132DE3DBEB0051AD23 /* InfoSheetView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoSheetView.swift; sourceTree = "<group>"; };
+		A00A9B152DE3DDCF0051AD23 /* StarfieldBackground.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StarfieldBackground.swift; sourceTree = "<group>"; };
+		A00A9B172DE3DE220051AD23 /* DreamTheatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamTheatherView.swift; sourceTree = "<group>"; };
+		A01743CE2DE27788009322DD /* DreamJournalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamJournalView.swift; sourceTree = "<group>"; };
+		A01743D02DE27B54009322DD /* WishModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishModel.swift; sourceTree = "<group>"; };
 		A09706802DD3D26E00A8D5AC /* NightShift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NightShift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		A09706832DD3D26E00A8D5AC /* NightShiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightShiftApp.swift; sourceTree = "<group>"; };
 		A09706852DD3D26E00A8D5AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A09706872DD3D27000A8D5AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A097068A2DD3D27000A8D5AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		A09706912DD3F5F500A8D5AC /* OnboardingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingScreen.swift; sourceTree = "<group>"; };
+		A09706932DD3F63500A8D5AC /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
+		A09706962DD3F90200A8D5AC /* NightShiftThemeColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightShiftThemeColors.swift; sourceTree = "<group>"; };
+		A09706982DD3F99500A8D5AC /* DreamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamView.swift; sourceTree = "<group>"; };
+		A0C36ACC2DD94ACA00CC7415 /* SprinklingStarsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SprinklingStarsView.swift; sourceTree = "<group>"; };
+		A0C36ACE2DD94B2F00CC7415 /* GlassmorphicOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassmorphicOverlay.swift; sourceTree = "<group>"; };
+		A0C36AD22DD9536700CC7415 /* ShootingStarView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShootingStarView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -32,6 +70,18 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		A00A283F2DF30C8E00D5B7E3 /* SoundEffects */ = {
+			isa = PBXGroup;
+			children = (
+				A00A28402DF30CCC00D5B7E3 /* night-forest-soundscape-158701.mp3 */,
+				A00A28442DF30CED00D5B7E3 /* soft-piano-72454.mp3 */,
+				A00A28462DF30CFC00D5B7E3 /* tibetan-bowl-26240.mp3 */,
+				A00A28422DF30CDE00D5B7E3 /* rain-and-thunder-sfx-12820.mp3 */,
+				A00A28482DF317B100D5B7E3 /* wish.mp3 */,
+			);
+			path = SoundEffects;
+			sourceTree = "<group>";
+		};
 		A09706772DD3D26E00A8D5AC = {
 			isa = PBXGroup;
 			children = (
@@ -51,10 +101,23 @@
 		A09706822DD3D26E00A8D5AC /* NightShift */ = {
 			isa = PBXGroup;
 			children = (
+				A00A283F2DF30C8E00D5B7E3 /* SoundEffects */,
+				A0C36ACB2DD94AAC00CC7415 /* BackgroundView */,
 				A09706832DD3D26E00A8D5AC /* NightShiftApp.swift */,
 				A09706852DD3D26E00A8D5AC /* ContentView.swift */,
 				A09706872DD3D27000A8D5AC /* Assets.xcassets */,
+				A09706952DD3F8DA00A8D5AC /* Extensions */,
 				A09706892DD3D27000A8D5AC /* Preview Content */,
+				A09706912DD3F5F500A8D5AC /* OnboardingScreen.swift */,
+				A09706932DD3F63500A8D5AC /* OnboardingViewModel.swift */,
+				A09706982DD3F99500A8D5AC /* DreamView.swift */,
+				A00A9B132DE3DBEB0051AD23 /* InfoSheetView.swift */,
+				A01743CE2DE27788009322DD /* DreamJournalView.swift */,
+				A01743D02DE27B54009322DD /* WishModel.swift */,
+				A00A9B152DE3DDCF0051AD23 /* StarfieldBackground.swift */,
+				A00A9B172DE3DE220051AD23 /* DreamTheatherView.swift */,
+				A00A284A2DF3201E00D5B7E3 /* NotificationManager.swift */,
+				A00A284C2DF3209100D5B7E3 /* ReminderSettingsView.swift */,
 			);
 			path = NightShift;
 			sourceTree = "<group>";
@@ -65,6 +128,24 @@
 				A097068A2DD3D27000A8D5AC /* Preview Assets.xcassets */,
 			);
 			path = "Preview Content";
+			sourceTree = "<group>";
+		};
+		A09706952DD3F8DA00A8D5AC /* Extensions */ = {
+			isa = PBXGroup;
+			children = (
+				A09706962DD3F90200A8D5AC /* NightShiftThemeColors.swift */,
+			);
+			path = Extensions;
+			sourceTree = "<group>";
+		};
+		A0C36ACB2DD94AAC00CC7415 /* BackgroundView */ = {
+			isa = PBXGroup;
+			children = (
+				A0C36ACC2DD94ACA00CC7415 /* SprinklingStarsView.swift */,
+				A0C36ACE2DD94B2F00CC7415 /* GlassmorphicOverlay.swift */,
+				A0C36AD22DD9536700CC7415 /* ShootingStarView.swift */,
+			);
+			path = BackgroundView;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -125,7 +206,12 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				A00A28412DF30CCC00D5B7E3 /* night-forest-soundscape-158701.mp3 in Resources */,
+				A00A28472DF30CFC00D5B7E3 /* tibetan-bowl-26240.mp3 in Resources */,
+				A00A28492DF317B100D5B7E3 /* wish.mp3 in Resources */,
+				A00A28432DF30CDE00D5B7E3 /* rain-and-thunder-sfx-12820.mp3 in Resources */,
 				A097068B2DD3D27000A8D5AC /* Preview Assets.xcassets in Resources */,
+				A00A28452DF30CED00D5B7E3 /* soft-piano-72454.mp3 in Resources */,
 				A09706882DD3D27000A8D5AC /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -138,7 +224,21 @@
 			buildActionMask = 2147483647;
 			files = (
 				A09706862DD3D26E00A8D5AC /* ContentView.swift in Sources */,
+				A00A9B182DE3DE220051AD23 /* DreamTheatherView.swift in Sources */,
+				A0C36AD32DD9536700CC7415 /* ShootingStarView.swift in Sources */,
 				A09706842DD3D26E00A8D5AC /* NightShiftApp.swift in Sources */,
+				A0C36ACF2DD94B2F00CC7415 /* GlassmorphicOverlay.swift in Sources */,
+				A01743CF2DE27788009322DD /* DreamJournalView.swift in Sources */,
+				A01743D12DE27B54009322DD /* WishModel.swift in Sources */,
+				A00A284D2DF3209100D5B7E3 /* ReminderSettingsView.swift in Sources */,
+				A09706972DD3F90200A8D5AC /* NightShiftThemeColors.swift in Sources */,
+				A09706922DD3F5F500A8D5AC /* OnboardingScreen.swift in Sources */,
+				A0C36ACD2DD94ACA00CC7415 /* SprinklingStarsView.swift in Sources */,
+				A00A9B162DE3DDCF0051AD23 /* StarfieldBackground.swift in Sources */,
+				A09706992DD3F99500A8D5AC /* DreamView.swift in Sources */,
+				A00A284B2DF3201E00D5B7E3 /* NotificationManager.swift in Sources */,
+				A00A9B142DE3DBEB0051AD23 /* InfoSheetView.swift in Sources */,
+				A09706942DD3F63500A8D5AC /* OnboardingViewModel.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

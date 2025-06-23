@@ -11,7 +11,11 @@ import SwiftUI
 struct NightShiftApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            NavigationStack {
+                OnboardingScreen(viewModel: OnboardingViewModel())
+            }
+            .tint(.white)
         }
+        .modelContainer(for: Wish.self)
     }
 }
