@@ -19,13 +19,13 @@
 		A00A9B182DE3DE220051AD23 /* DreamTheatherView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A00A9B172DE3DE220051AD23 /* DreamTheatherView.swift */; };
 		A01743CF2DE27788009322DD /* DreamJournalView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01743CE2DE27788009322DD /* DreamJournalView.swift */; };
 		A01743D12DE27B54009322DD /* WishModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A01743D02DE27B54009322DD /* WishModel.swift */; };
-		A09706842DD3D26E00A8D5AC /* NightShiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706832DD3D26E00A8D5AC /* NightShiftApp.swift */; };
+		A09706842DD3D26E00A8D5AC /* DreamShiftApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706832DD3D26E00A8D5AC /* DreamShiftApp.swift */; };
 		A09706862DD3D26E00A8D5AC /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706852DD3D26E00A8D5AC /* ContentView.swift */; };
 		A09706882DD3D27000A8D5AC /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A09706872DD3D27000A8D5AC /* Assets.xcassets */; };
 		A097068B2DD3D27000A8D5AC /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = A097068A2DD3D27000A8D5AC /* Preview Assets.xcassets */; };
 		A09706922DD3F5F500A8D5AC /* OnboardingScreen.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706912DD3F5F500A8D5AC /* OnboardingScreen.swift */; };
 		A09706942DD3F63500A8D5AC /* OnboardingViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706932DD3F63500A8D5AC /* OnboardingViewModel.swift */; };
-		A09706972DD3F90200A8D5AC /* NightShiftThemeColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706962DD3F90200A8D5AC /* NightShiftThemeColors.swift */; };
+		A09706972DD3F90200A8D5AC /* DreamShiftThemeColors.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706962DD3F90200A8D5AC /* DreamShiftThemeColors.swift */; };
 		A09706992DD3F99500A8D5AC /* DreamView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A09706982DD3F99500A8D5AC /* DreamView.swift */; };
 		A0C36ACD2DD94ACA00CC7415 /* SprinklingStarsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C36ACC2DD94ACA00CC7415 /* SprinklingStarsView.swift */; };
 		A0C36ACF2DD94B2F00CC7415 /* GlassmorphicOverlay.swift in Sources */ = {isa = PBXBuildFile; fileRef = A0C36ACE2DD94B2F00CC7415 /* GlassmorphicOverlay.swift */; };
@@ -45,14 +45,14 @@
 		A00A9B172DE3DE220051AD23 /* DreamTheatherView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamTheatherView.swift; sourceTree = "<group>"; };
 		A01743CE2DE27788009322DD /* DreamJournalView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamJournalView.swift; sourceTree = "<group>"; };
 		A01743D02DE27B54009322DD /* WishModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = WishModel.swift; sourceTree = "<group>"; };
-		A09706802DD3D26E00A8D5AC /* NightShift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = NightShift.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		A09706832DD3D26E00A8D5AC /* NightShiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightShiftApp.swift; sourceTree = "<group>"; };
+		A09706802DD3D26E00A8D5AC /* DreamShift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DreamShift.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		A09706832DD3D26E00A8D5AC /* DreamShiftApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamShiftApp.swift; sourceTree = "<group>"; };
 		A09706852DD3D26E00A8D5AC /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		A09706872DD3D27000A8D5AC /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		A097068A2DD3D27000A8D5AC /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		A09706912DD3F5F500A8D5AC /* OnboardingScreen.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingScreen.swift; sourceTree = "<group>"; };
 		A09706932DD3F63500A8D5AC /* OnboardingViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OnboardingViewModel.swift; sourceTree = "<group>"; };
-		A09706962DD3F90200A8D5AC /* NightShiftThemeColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NightShiftThemeColors.swift; sourceTree = "<group>"; };
+		A09706962DD3F90200A8D5AC /* DreamShiftThemeColors.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamShiftThemeColors.swift; sourceTree = "<group>"; };
 		A09706982DD3F99500A8D5AC /* DreamView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DreamView.swift; sourceTree = "<group>"; };
 		A0C36ACC2DD94ACA00CC7415 /* SprinklingStarsView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SprinklingStarsView.swift; sourceTree = "<group>"; };
 		A0C36ACE2DD94B2F00CC7415 /* GlassmorphicOverlay.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = GlassmorphicOverlay.swift; sourceTree = "<group>"; };
@@ -85,7 +85,7 @@
 		A09706772DD3D26E00A8D5AC = {
 			isa = PBXGroup;
 			children = (
-				A09706822DD3D26E00A8D5AC /* NightShift */,
+				A09706822DD3D26E00A8D5AC /* DreamShift */,
 				A09706812DD3D26E00A8D5AC /* Products */,
 			);
 			sourceTree = "<group>";
@@ -93,17 +93,17 @@
 		A09706812DD3D26E00A8D5AC /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				A09706802DD3D26E00A8D5AC /* NightShift.app */,
+				A09706802DD3D26E00A8D5AC /* DreamShift.app */,
 			);
 			name = Products;
 			sourceTree = "<group>";
 		};
-		A09706822DD3D26E00A8D5AC /* NightShift */ = {
+		A09706822DD3D26E00A8D5AC /* DreamShift */ = {
 			isa = PBXGroup;
 			children = (
 				A00A283F2DF30C8E00D5B7E3 /* SoundEffects */,
 				A0C36ACB2DD94AAC00CC7415 /* BackgroundView */,
-				A09706832DD3D26E00A8D5AC /* NightShiftApp.swift */,
+				A09706832DD3D26E00A8D5AC /* DreamShiftApp.swift */,
 				A09706852DD3D26E00A8D5AC /* ContentView.swift */,
 				A09706872DD3D27000A8D5AC /* Assets.xcassets */,
 				A09706952DD3F8DA00A8D5AC /* Extensions */,
@@ -119,7 +119,7 @@
 				A00A284A2DF3201E00D5B7E3 /* NotificationManager.swift */,
 				A00A284C2DF3209100D5B7E3 /* ReminderSettingsView.swift */,
 			);
-			path = NightShift;
+			path = DreamShift;
 			sourceTree = "<group>";
 		};
 		A09706892DD3D27000A8D5AC /* Preview Content */ = {
@@ -133,7 +133,7 @@
 		A09706952DD3F8DA00A8D5AC /* Extensions */ = {
 			isa = PBXGroup;
 			children = (
-				A09706962DD3F90200A8D5AC /* NightShiftThemeColors.swift */,
+				A09706962DD3F90200A8D5AC /* DreamShiftThemeColors.swift */,
 			);
 			path = Extensions;
 			sourceTree = "<group>";
@@ -151,9 +151,9 @@
 /* End PBXGroup section */
 
 /* Begin PBXNativeTarget section */
-		A097067F2DD3D26E00A8D5AC /* NightShift */ = {
+		A097067F2DD3D26E00A8D5AC /* DreamShift */ = {
 			isa = PBXNativeTarget;
-			buildConfigurationList = A097068E2DD3D27000A8D5AC /* Build configuration list for PBXNativeTarget "NightShift" */;
+			buildConfigurationList = A097068E2DD3D27000A8D5AC /* Build configuration list for PBXNativeTarget "DreamShift" */;
 			buildPhases = (
 				A097067C2DD3D26E00A8D5AC /* Sources */,
 				A097067D2DD3D26E00A8D5AC /* Frameworks */,
@@ -163,9 +163,9 @@
 			);
 			dependencies = (
 			);
-			name = NightShift;
+			name = DreamShift;
 			productName = NightShift;
-			productReference = A09706802DD3D26E00A8D5AC /* NightShift.app */;
+			productReference = A09706802DD3D26E00A8D5AC /* DreamShift.app */;
 			productType = "com.apple.product-type.application";
 		};
 /* End PBXNativeTarget section */
@@ -183,7 +183,7 @@
 					};
 				};
 			};
-			buildConfigurationList = A097067B2DD3D26E00A8D5AC /* Build configuration list for PBXProject "NightShift" */;
+			buildConfigurationList = A097067B2DD3D26E00A8D5AC /* Build configuration list for PBXProject "DreamShift" */;
 			compatibilityVersion = "Xcode 14.0";
 			developmentRegion = en;
 			hasScannedForEncodings = 0;
@@ -196,7 +196,7 @@
 			projectDirPath = "";
 			projectRoot = "";
 			targets = (
-				A097067F2DD3D26E00A8D5AC /* NightShift */,
+				A097067F2DD3D26E00A8D5AC /* DreamShift */,
 			);
 		};
 /* End PBXProject section */
@@ -226,12 +226,12 @@
 				A09706862DD3D26E00A8D5AC /* ContentView.swift in Sources */,
 				A00A9B182DE3DE220051AD23 /* DreamTheatherView.swift in Sources */,
 				A0C36AD32DD9536700CC7415 /* ShootingStarView.swift in Sources */,
-				A09706842DD3D26E00A8D5AC /* NightShiftApp.swift in Sources */,
+				A09706842DD3D26E00A8D5AC /* DreamShiftApp.swift in Sources */,
 				A0C36ACF2DD94B2F00CC7415 /* GlassmorphicOverlay.swift in Sources */,
 				A01743CF2DE27788009322DD /* DreamJournalView.swift in Sources */,
 				A01743D12DE27B54009322DD /* WishModel.swift in Sources */,
 				A00A284D2DF3209100D5B7E3 /* ReminderSettingsView.swift in Sources */,
-				A09706972DD3F90200A8D5AC /* NightShiftThemeColors.swift in Sources */,
+				A09706972DD3F90200A8D5AC /* DreamShiftThemeColors.swift in Sources */,
 				A09706922DD3F5F500A8D5AC /* OnboardingScreen.swift in Sources */,
 				A0C36ACD2DD94ACA00CC7415 /* SprinklingStarsView.swift in Sources */,
 				A00A9B162DE3DDCF0051AD23 /* StarfieldBackground.swift in Sources */,
@@ -371,7 +371,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"NightShift/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DreamShift/Preview Content\"";
 				DEVELOPMENT_TEAM = 58Q543QXGB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -400,7 +400,7 @@
 				ASSETCATALOG_COMPILER_GLOBAL_ACCENT_COLOR_NAME = AccentColor;
 				CODE_SIGN_STYLE = Automatic;
 				CURRENT_PROJECT_VERSION = 1;
-				DEVELOPMENT_ASSET_PATHS = "\"NightShift/Preview Content\"";
+				DEVELOPMENT_ASSET_PATHS = "\"DreamShift/Preview Content\"";
 				DEVELOPMENT_TEAM = 58Q543QXGB;
 				ENABLE_PREVIEWS = YES;
 				GENERATE_INFOPLIST_FILE = YES;
@@ -425,7 +425,7 @@
 /* End XCBuildConfiguration section */
 
 /* Begin XCConfigurationList section */
-		A097067B2DD3D26E00A8D5AC /* Build configuration list for PBXProject "NightShift" */ = {
+		A097067B2DD3D26E00A8D5AC /* Build configuration list for PBXProject "DreamShift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A097068C2DD3D27000A8D5AC /* Debug */,
@@ -434,7 +434,7 @@
 			defaultConfigurationIsVisible = 0;
 			defaultConfigurationName = Release;
 		};
-		A097068E2DD3D27000A8D5AC /* Build configuration list for PBXNativeTarget "NightShift" */ = {
+		A097068E2DD3D27000A8D5AC /* Build configuration list for PBXNativeTarget "DreamShift" */ = {
 			isa = XCConfigurationList;
 			buildConfigurations = (
 				A097068F2DD3D27000A8D5AC /* Debug */,

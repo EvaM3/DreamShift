@@ -2,7 +2,7 @@
 //  NightShiftThemeColors.swift
 //  NightShift
 //
-//  Created by Eva Sira Madarasz on 14/05/2025.
+//  Created by Eva Madarasz on 14/05/2025.
 //
 
 import Foundation

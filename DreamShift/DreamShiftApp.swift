@@ -8,7 +8,7 @@
 import SwiftUI
 
 @main
-struct NightShiftApp: App {
+struct DreamShiftApp: App {
     var body: some Scene {
         WindowGroup {
             NavigationStack {
